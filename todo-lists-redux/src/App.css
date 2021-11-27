@@ -1,0 +1,30 @@
+.mt-15{
+    margin-top: 15px;
+}
+.mr-15{
+    position: absolute;
+    right: 25px;;
+}
+.mr-5{
+    margin-right: 5px;
+}
+
+.pr-5{
+    padding-right: 20px;
+}
+.ml-5 {
+    margin-left: 5px;
+}
+
+.dropdown-menu li a{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.display-after{
+    padding: 0 10px 0 0;
+}
+
+.display-after::after{
+    color: black;
+}

@@ -1,0 +1,20 @@
+.mt-50{
+    margin-top: 20vw;
+}
+.active {
+    border: 3px solid black;
+}
+
+#content{
+    border:3px solid red;
+    padding: 10px;
+    border-radius: 10px;
+    color: red;
+    font-size: 15px;
+}
+
+.panel-body div{
+    display: inline-block;
+    cursor: pointer;
+}
+
