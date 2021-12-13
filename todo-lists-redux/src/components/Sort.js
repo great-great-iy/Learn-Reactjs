@@ -15,7 +15,7 @@ class Sort extends Component {
         var { sortTask } = this.props;
         return(
             <>                
-                <div className="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                <div className="col-xs-6 col-sm-6 col-md-6 col-lg-6 sort-ele">
                     <div className="dropdown">                                    
                         <button 
                             className="btn btn-primary dropdown-toggle" 
